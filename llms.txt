@@ -1,52 +1,108 @@
 # TheOldMastersPrints
 
-> Fichas en español de cuadros famosos de dominio público (qué representan, dónde están, dimensiones y curiosidades verificadas) y reproducciones en lámina y lienzo con envío gratis a la UE, vendidas en Etsy.
+> Bilingual (Spanish/English) guides to famous public-domain paintings: what they show, where they hang, dimensions and verified facts. The site belongs to an Etsy shop selling prints (made in the EU) and canvases with free EU shipping.
 
-## Obras
+## Artworks (English)
 
-- [La Gioconda, de Leonardo da Vinci](https://theoldmastersprints.com/es/obras/la-gioconda-leonardo-da-vinci/): h. 1503–1519, Museo del Louvre, París
-- [La noche estrellada, de Vincent van Gogh](https://theoldmastersprints.com/es/obras/la-noche-estrellada-vincent-van-gogh/): 1889, Museo de Arte Moderno (MoMA), Nueva York
-- [La joven de la perla, de Johannes Vermeer](https://theoldmastersprints.com/es/obras/la-joven-de-la-perla-johannes-vermeer/): h. 1665, Mauritshuis, La Haya
-- [La Libertad guiando al pueblo, de Eugène Delacroix](https://theoldmastersprints.com/es/obras/la-libertad-guiando-al-pueblo-eugene-delacroix/): 1830, Museo del Louvre, París
-- [La ronda de noche, de Rembrandt](https://theoldmastersprints.com/es/obras/la-ronda-de-noche-rembrandt/): 1642, Rijksmuseum, Ámsterdam
-- [Las Meninas, de Diego Velázquez](https://theoldmastersprints.com/es/obras/las-meninas-diego-velazquez/): 1656, Museo del Prado, Madrid
-- [Los comedores de patatas, de Vincent van Gogh](https://theoldmastersprints.com/es/obras/los-comedores-de-patatas-vincent-van-gogh/): 1885, Museo Van Gogh, Ámsterdam
-- [El beso, de Gustav Klimt](https://theoldmastersprints.com/es/obras/el-beso-gustav-klimt/): 1907–1908, Museo Belvedere, Viena
-- [La muerte de Sócrates, de Jacques-Louis David](https://theoldmastersprints.com/es/obras/la-muerte-de-socrates-jacques-louis-david/): 1787, Museo Metropolitano de Arte, Nueva York
-- [El jardín de las delicias, de El Bosco](https://theoldmastersprints.com/es/obras/el-jardin-de-las-delicias-el-bosco/): h. 1490–1510, Museo del Prado, Madrid
-- [La balsa de la Medusa, de Théodore Géricault](https://theoldmastersprints.com/es/obras/la-balsa-de-la-medusa-theodore-gericault/): 1818–1819, Museo del Louvre, París
-- [El 3 de mayo de 1808, de Francisco de Goya](https://theoldmastersprints.com/es/obras/el-3-de-mayo-de-1808-francisco-de-goya/): 1814, Museo del Prado, Madrid
-- [Almuerzo sobre la hierba, de Édouard Manet](https://theoldmastersprints.com/es/obras/almuerzo-sobre-la-hierba-edouard-manet/): 1863, Museo de Orsay, París
-- [La lección de anatomía del Dr. Nicolaes Tulp, de Rembrandt](https://theoldmastersprints.com/es/obras/la-leccion-de-anatomia-del-dr-nicolaes-tulp-rembrandt/): 1632, Mauritshuis, La Haya
-- [American Gothic, de Grant Wood](https://theoldmastersprints.com/es/obras/american-gothic-grant-wood/): 1930, Instituto de Arte de Chicago
-- [La lechera, de Johannes Vermeer](https://theoldmastersprints.com/es/obras/la-lechera-johannes-vermeer/): h. 1658–1660, Rijksmuseum, Ámsterdam
-- [Baile en el Moulin de la Galette, de Pierre-Auguste Renoir](https://theoldmastersprints.com/es/obras/baile-en-el-moulin-de-la-galette-pierre-auguste-renoir/): 1876, Museo de Orsay, París
-- [El matrimonio Arnolfini, de Jan van Eyck](https://theoldmastersprints.com/es/obras/el-matrimonio-arnolfini-jan-van-eyck/): 1434, National Gallery, Londres
-- [Olympia, de Édouard Manet](https://theoldmastersprints.com/es/obras/olympia-edouard-manet/): 1863, Museo de Orsay, París
-- [Campo de trigo con cuervos, de Vincent van Gogh](https://theoldmastersprints.com/es/obras/campo-de-trigo-con-cuervos-vincent-van-gogh/): 1890, Museo Van Gogh, Ámsterdam
-- [El juramento de los Horacios, de Jacques-Louis David](https://theoldmastersprints.com/es/obras/el-juramento-de-los-horacios-jacques-louis-david/): 1784, Museo del Louvre, París
-- [Vista de Delft, de Johannes Vermeer](https://theoldmastersprints.com/es/obras/vista-de-delft-johannes-vermeer/): h. 1660–1661, Mauritshuis, La Haya
-- [La Virgen, el Niño Jesús y Santa Ana, de Leonardo da Vinci](https://theoldmastersprints.com/es/obras/la-virgen-el-nino-jesus-y-santa-ana-leonardo-da-vinci/): h. 1503–1519, Museo del Louvre, París
-- [Cazadores en la nieve, de Pieter Brueghel el Viejo](https://theoldmastersprints.com/es/obras/cazadores-en-la-nieve-pieter-brueghel-el-viejo/): 1565, Museo de Historia del Arte, Viena
-- [La rendición de Breda, de Diego Velázquez](https://theoldmastersprints.com/es/obras/la-rendicion-de-breda-diego-velazquez/): 1634–1635, Museo del Prado, Madrid
-- [La coronación de Napoleón, de Jacques-Louis David](https://theoldmastersprints.com/es/obras/la-coronacion-de-napoleon-jacques-louis-david/): 1805–1807, Museo del Louvre, París
-- [Madonna Benois, de Leonardo da Vinci](https://theoldmastersprints.com/es/obras/madonna-benois-leonardo-da-vinci/): h. 1478–1480, Museo del Hermitage, San Petersburgo
-- [Los proverbios flamencos, de Pieter Brueghel el Viejo](https://theoldmastersprints.com/es/obras/los-proverbios-flamencos-pieter-brueghel-el-viejo/): 1559, Gemäldegalerie (Galería de Pinturas), Berlín
-- [Saturno devorando a su hijo, de Francisco de Goya](https://theoldmastersprints.com/es/obras/saturno-devorando-a-su-hijo-francisco-de-goya/): h. 1819–1823, Museo del Prado, Madrid
-- [Cuadrado negro, de Kazimir Malévich](https://theoldmastersprints.com/es/obras/cuadrado-negro-kazimir-malevich/): 1915, Galería Tretiakov, Moscú
-- [Tarde de domingo en la isla de La Grande Jatte, de Georges Seurat](https://theoldmastersprints.com/es/obras/tarde-de-domingo-en-la-isla-de-la-grande-jatte-georges-seurat/): 1884–1886, Instituto de Arte de Chicago
-- [La gran odalisca, de Jean-Auguste-Dominique Ingres](https://theoldmastersprints.com/es/obras/la-gran-odalisca-jean-auguste-dominique-ingres/): 1814, Museo del Louvre, París
-- [Los embajadores, de Hans Holbein el Joven](https://theoldmastersprints.com/es/obras/los-embajadores-hans-holbein-el-joven/): 1533, National Gallery, Londres
-- [La novia judía, de Rembrandt](https://theoldmastersprints.com/es/obras/la-novia-judia-rembrandt/): h. 1665–1669, Rijksmuseum, Ámsterdam
-- [Ofelia, de John Everett Millais](https://theoldmastersprints.com/es/obras/ofelia-john-everett-millais/): 1851–1852, Tate Britain, Londres
-- [Un entierro en Ornans, de Gustave Courbet](https://theoldmastersprints.com/es/obras/un-entierro-en-ornans-gustave-courbet/): 1849–1850, Museo de Orsay, París
-- [El nacimiento de Venus, de William-Adolphe Bouguereau](https://theoldmastersprints.com/es/obras/el-nacimiento-de-venus-william-adolphe-bouguereau/): 1879, Museo de Orsay, París
-- [Iván el Terrible y su hijo, de Iliá Repin](https://theoldmastersprints.com/es/obras/ivan-el-terrible-y-su-hijo-ilia-repin/): 1883–1885, Galería Tretiakov, Moscú
-- [Las bodas de Caná, de Paolo Veronese](https://theoldmastersprints.com/es/obras/las-bodas-de-cana-paolo-veronese/): 1563, Museo del Louvre, París
+- [Mona Lisa — Leonardo da Vinci](https://theoldmastersprints.com/en/works/mona-lisa-leonardo-da-vinci/): c. 1503–1519, Louvre, Paris
+- [The Starry Night — Vincent van Gogh](https://theoldmastersprints.com/en/works/the-starry-night-vincent-van-gogh/): 1889, Museum of Modern Art (MoMA), New York
+- [Girl with a Pearl Earring — Johannes Vermeer](https://theoldmastersprints.com/en/works/girl-with-a-pearl-earring-johannes-vermeer/): c. 1665, Mauritshuis, The Hague
+- [Liberty Leading the People — Eugène Delacroix](https://theoldmastersprints.com/en/works/liberty-leading-the-people-eugene-delacroix/): 1830, Louvre, Paris
+- [The Night Watch — Rembrandt](https://theoldmastersprints.com/en/works/the-night-watch-rembrandt/): 1642, Rijksmuseum, Amsterdam
+- [Las Meninas — Diego Velázquez](https://theoldmastersprints.com/en/works/las-meninas-diego-velazquez/): 1656, Museo del Prado, Madrid
+- [The Potato Eaters — Vincent van Gogh](https://theoldmastersprints.com/en/works/the-potato-eaters-vincent-van-gogh/): 1885, Van Gogh Museum, Amsterdam
+- [The Kiss — Gustav Klimt](https://theoldmastersprints.com/en/works/the-kiss-gustav-klimt/): 1907–1908, Belvedere, Vienna
+- [The Death of Socrates — Jacques-Louis David](https://theoldmastersprints.com/en/works/the-death-of-socrates-jacques-louis-david/): 1787, The Metropolitan Museum of Art, New York
+- [The Garden of Earthly Delights — Hieronymus Bosch](https://theoldmastersprints.com/en/works/the-garden-of-earthly-delights-hieronymus-bosch/): c. 1490–1510, Museo del Prado, Madrid
+- [The Raft of the Medusa — Théodore Géricault](https://theoldmastersprints.com/en/works/the-raft-of-the-medusa-theodore-gericault/): 1818–1819, Louvre, Paris
+- [The Third of May 1808 — Francisco Goya](https://theoldmastersprints.com/en/works/the-third-of-may-1808-francisco-goya/): 1814, Museo del Prado, Madrid
+- [Luncheon on the Grass — Édouard Manet](https://theoldmastersprints.com/en/works/luncheon-on-the-grass-edouard-manet/): 1863, Musée d'Orsay, Paris
+- [The Anatomy Lesson of Dr. Nicolaes Tulp — Rembrandt](https://theoldmastersprints.com/en/works/the-anatomy-lesson-of-dr-nicolaes-tulp-rembrandt/): 1632, Mauritshuis, The Hague
+- [American Gothic — Grant Wood](https://theoldmastersprints.com/en/works/american-gothic-grant-wood/): 1930, Art Institute of Chicago
+- [The Milkmaid — Johannes Vermeer](https://theoldmastersprints.com/en/works/the-milkmaid-johannes-vermeer/): c. 1658–1660, Rijksmuseum, Amsterdam
+- [Bal du moulin de la Galette — Pierre-Auguste Renoir](https://theoldmastersprints.com/en/works/bal-du-moulin-de-la-galette-pierre-auguste-renoir/): 1876, Musée d'Orsay, Paris
+- [Arnolfini Portrait — Jan van Eyck](https://theoldmastersprints.com/en/works/arnolfini-portrait-jan-van-eyck/): 1434, National Gallery, London
+- [Olympia — Édouard Manet](https://theoldmastersprints.com/en/works/olympia-edouard-manet/): 1863, Musée d'Orsay, Paris
+- [Wheatfield with Crows — Vincent van Gogh](https://theoldmastersprints.com/en/works/wheatfield-with-crows-vincent-van-gogh/): 1890, Van Gogh Museum, Amsterdam
+- [The Oath of the Horatii — Jacques-Louis David](https://theoldmastersprints.com/en/works/the-oath-of-the-horatii-jacques-louis-david/): 1784, Louvre, Paris
+- [View of Delft — Johannes Vermeer](https://theoldmastersprints.com/en/works/view-of-delft-johannes-vermeer/): c. 1660–1661, Mauritshuis, The Hague
+- [The Virgin and Child with Saint Anne — Leonardo da Vinci](https://theoldmastersprints.com/en/works/the-virgin-and-child-with-saint-anne-leonardo-da-vinci/): c. 1503–1519, Louvre, Paris
+- [The Hunters in the Snow — Pieter Brueghel the Elder](https://theoldmastersprints.com/en/works/the-hunters-in-the-snow-pieter-brueghel-the-elder/): 1565, Kunsthistorisches Museum, Vienna
+- [The Surrender of Breda — Diego Velázquez](https://theoldmastersprints.com/en/works/the-surrender-of-breda-diego-velazquez/): 1634–1635, Museo del Prado, Madrid
+- [The Coronation of Napoleon — Jacques-Louis David](https://theoldmastersprints.com/en/works/the-coronation-of-napoleon-jacques-louis-david/): 1805–1807, Louvre, Paris
+- [Benois Madonna — Leonardo da Vinci](https://theoldmastersprints.com/en/works/benois-madonna-leonardo-da-vinci/): c. 1478–1480, Hermitage Museum, Saint Petersburg
+- [Netherlandish Proverbs — Pieter Brueghel the Elder](https://theoldmastersprints.com/en/works/netherlandish-proverbs-pieter-brueghel-the-elder/): 1559, Gemäldegalerie, Berlin
+- [Saturn Devouring His Son — Francisco Goya](https://theoldmastersprints.com/en/works/saturn-devouring-his-son-francisco-goya/): c. 1819–1823, Museo del Prado, Madrid
+- [Black Square — Kazimir Malevich](https://theoldmastersprints.com/en/works/black-square-kazimir-malevich/): 1915, Tretyakov Gallery, Moscow
+- [A Sunday Afternoon on the Island of La Grande Jatte — Georges Seurat](https://theoldmastersprints.com/en/works/a-sunday-afternoon-on-the-island-of-la-grande-jatte-georges-seurat/): 1884–1886, Art Institute of Chicago
+- [Grande Odalisque — Jean-Auguste-Dominique Ingres](https://theoldmastersprints.com/en/works/grande-odalisque-jean-auguste-dominique-ingres/): 1814, Louvre, Paris
+- [The Ambassadors — Hans Holbein the Younger](https://theoldmastersprints.com/en/works/the-ambassadors-hans-holbein-the-younger/): 1533, National Gallery, London
+- [The Jewish Bride — Rembrandt](https://theoldmastersprints.com/en/works/the-jewish-bride-rembrandt/): c. 1665–1669, Rijksmuseum, Amsterdam
+- [Ophelia — John Everett Millais](https://theoldmastersprints.com/en/works/ophelia-john-everett-millais/): 1851–1852, Tate Britain, London
+- [A Burial at Ornans — Gustave Courbet](https://theoldmastersprints.com/en/works/a-burial-at-ornans-gustave-courbet/): 1849–1850, Musée d'Orsay, Paris
+- [The Birth of Venus — William-Adolphe Bouguereau](https://theoldmastersprints.com/en/works/the-birth-of-venus-william-adolphe-bouguereau/): 1879, Musée d'Orsay, Paris
+- [Ivan the Terrible and his son Ivan on November 16, 1581 — Ilya Repin](https://theoldmastersprints.com/en/works/ivan-the-terrible-and-his-son-ivan-on-november-16-1581-ilya-repin/): 1883–1885, Tretyakov Gallery, Moscow
+- [The Wedding at Cana — Paolo Veronese](https://theoldmastersprints.com/en/works/the-wedding-at-cana-paolo-veronese/): 1563, Louvre, Paris
+- [Theotokos of Vladimir](https://theoldmastersprints.com/en/works/theotokos-of-vladimir/): early 12th century, Tretyakov Gallery, Moscow
+
+## Obras (español)
+
+- [La Gioconda — Leonardo da Vinci](https://theoldmastersprints.com/es/obras/la-gioconda-leonardo-da-vinci/): h. 1503–1519, Museo del Louvre, París
+- [La noche estrellada — Vincent van Gogh](https://theoldmastersprints.com/es/obras/la-noche-estrellada-vincent-van-gogh/): 1889, Museo de Arte Moderno (MoMA), Nueva York
+- [La joven de la perla — Johannes Vermeer](https://theoldmastersprints.com/es/obras/la-joven-de-la-perla-johannes-vermeer/): h. 1665, Mauritshuis, La Haya
+- [La Libertad guiando al pueblo — Eugène Delacroix](https://theoldmastersprints.com/es/obras/la-libertad-guiando-al-pueblo-eugene-delacroix/): 1830, Museo del Louvre, París
+- [La ronda de noche — Rembrandt](https://theoldmastersprints.com/es/obras/la-ronda-de-noche-rembrandt/): 1642, Rijksmuseum, Ámsterdam
+- [Las Meninas — Diego Velázquez](https://theoldmastersprints.com/es/obras/las-meninas-diego-velazquez/): 1656, Museo del Prado, Madrid
+- [Los comedores de patatas — Vincent van Gogh](https://theoldmastersprints.com/es/obras/los-comedores-de-patatas-vincent-van-gogh/): 1885, Museo Van Gogh, Ámsterdam
+- [El beso — Gustav Klimt](https://theoldmastersprints.com/es/obras/el-beso-gustav-klimt/): 1907–1908, Museo Belvedere, Viena
+- [La muerte de Sócrates — Jacques-Louis David](https://theoldmastersprints.com/es/obras/la-muerte-de-socrates-jacques-louis-david/): 1787, Museo Metropolitano de Arte, Nueva York
+- [El jardín de las delicias — El Bosco](https://theoldmastersprints.com/es/obras/el-jardin-de-las-delicias-el-bosco/): h. 1490–1510, Museo del Prado, Madrid
+- [La balsa de la Medusa — Théodore Géricault](https://theoldmastersprints.com/es/obras/la-balsa-de-la-medusa-theodore-gericault/): 1818–1819, Museo del Louvre, París
+- [El 3 de mayo de 1808 — Francisco de Goya](https://theoldmastersprints.com/es/obras/el-3-de-mayo-de-1808-francisco-de-goya/): 1814, Museo del Prado, Madrid
+- [Almuerzo sobre la hierba — Édouard Manet](https://theoldmastersprints.com/es/obras/almuerzo-sobre-la-hierba-edouard-manet/): 1863, Museo de Orsay, París
+- [La lección de anatomía del Dr. Nicolaes Tulp — Rembrandt](https://theoldmastersprints.com/es/obras/la-leccion-de-anatomia-del-dr-nicolaes-tulp-rembrandt/): 1632, Mauritshuis, La Haya
+- [American Gothic — Grant Wood](https://theoldmastersprints.com/es/obras/american-gothic-grant-wood/): 1930, Instituto de Arte de Chicago
+- [La lechera — Johannes Vermeer](https://theoldmastersprints.com/es/obras/la-lechera-johannes-vermeer/): h. 1658–1660, Rijksmuseum, Ámsterdam
+- [Baile en el Moulin de la Galette — Pierre-Auguste Renoir](https://theoldmastersprints.com/es/obras/baile-en-el-moulin-de-la-galette-pierre-auguste-renoir/): 1876, Museo de Orsay, París
+- [El matrimonio Arnolfini — Jan van Eyck](https://theoldmastersprints.com/es/obras/el-matrimonio-arnolfini-jan-van-eyck/): 1434, National Gallery, Londres
+- [Olympia — Édouard Manet](https://theoldmastersprints.com/es/obras/olympia-edouard-manet/): 1863, Museo de Orsay, París
+- [Campo de trigo con cuervos — Vincent van Gogh](https://theoldmastersprints.com/es/obras/campo-de-trigo-con-cuervos-vincent-van-gogh/): 1890, Museo Van Gogh, Ámsterdam
+- [El juramento de los Horacios — Jacques-Louis David](https://theoldmastersprints.com/es/obras/el-juramento-de-los-horacios-jacques-louis-david/): 1784, Museo del Louvre, París
+- [Vista de Delft — Johannes Vermeer](https://theoldmastersprints.com/es/obras/vista-de-delft-johannes-vermeer/): h. 1660–1661, Mauritshuis, La Haya
+- [La Virgen, el Niño Jesús y Santa Ana — Leonardo da Vinci](https://theoldmastersprints.com/es/obras/la-virgen-el-nino-jesus-y-santa-ana-leonardo-da-vinci/): h. 1503–1519, Museo del Louvre, París
+- [Cazadores en la nieve — Pieter Brueghel el Viejo](https://theoldmastersprints.com/es/obras/cazadores-en-la-nieve-pieter-brueghel-el-viejo/): 1565, Museo de Historia del Arte, Viena
+- [La rendición de Breda — Diego Velázquez](https://theoldmastersprints.com/es/obras/la-rendicion-de-breda-diego-velazquez/): 1634–1635, Museo del Prado, Madrid
+- [La coronación de Napoleón — Jacques-Louis David](https://theoldmastersprints.com/es/obras/la-coronacion-de-napoleon-jacques-louis-david/): 1805–1807, Museo del Louvre, París
+- [Madonna Benois — Leonardo da Vinci](https://theoldmastersprints.com/es/obras/madonna-benois-leonardo-da-vinci/): h. 1478–1480, Museo del Hermitage, San Petersburgo
+- [Los proverbios flamencos — Pieter Brueghel el Viejo](https://theoldmastersprints.com/es/obras/los-proverbios-flamencos-pieter-brueghel-el-viejo/): 1559, Gemäldegalerie (Galería de Pinturas), Berlín
+- [Saturno devorando a su hijo — Francisco de Goya](https://theoldmastersprints.com/es/obras/saturno-devorando-a-su-hijo-francisco-de-goya/): h. 1819–1823, Museo del Prado, Madrid
+- [Cuadrado negro — Kazimir Malévich](https://theoldmastersprints.com/es/obras/cuadrado-negro-kazimir-malevich/): 1915, Galería Tretiakov, Moscú
+- [Tarde de domingo en la isla de La Grande Jatte — Georges Seurat](https://theoldmastersprints.com/es/obras/tarde-de-domingo-en-la-isla-de-la-grande-jatte-georges-seurat/): 1884–1886, Instituto de Arte de Chicago
+- [La gran odalisca — Jean-Auguste-Dominique Ingres](https://theoldmastersprints.com/es/obras/la-gran-odalisca-jean-auguste-dominique-ingres/): 1814, Museo del Louvre, París
+- [Los embajadores — Hans Holbein el Joven](https://theoldmastersprints.com/es/obras/los-embajadores-hans-holbein-el-joven/): 1533, National Gallery, Londres
+- [La novia judía — Rembrandt](https://theoldmastersprints.com/es/obras/la-novia-judia-rembrandt/): h. 1665–1669, Rijksmuseum, Ámsterdam
+- [Ofelia — John Everett Millais](https://theoldmastersprints.com/es/obras/ofelia-john-everett-millais/): 1851–1852, Tate Britain, Londres
+- [Un entierro en Ornans — Gustave Courbet](https://theoldmastersprints.com/es/obras/un-entierro-en-ornans-gustave-courbet/): 1849–1850, Museo de Orsay, París
+- [El nacimiento de Venus — William-Adolphe Bouguereau](https://theoldmastersprints.com/es/obras/el-nacimiento-de-venus-william-adolphe-bouguereau/): 1879, Museo de Orsay, París
+- [Iván el Terrible y su hijo — Iliá Repin](https://theoldmastersprints.com/es/obras/ivan-el-terrible-y-su-hijo-ilia-repin/): 1883–1885, Galería Tretiakov, Moscú
+- [Las bodas de Caná — Paolo Veronese](https://theoldmastersprints.com/es/obras/las-bodas-de-cana-paolo-veronese/): 1563, Museo del Louvre, París
 - [Virgen de Vladímir](https://theoldmastersprints.com/es/obras/virgen-de-vladimir/): principios del siglo XII, Galería Tretiakov, Moscú
 
-## Información
+## Guides
 
-- [Preguntas frecuentes](https://theoldmastersprints.com/es/preguntas-frecuentes/)
-- [Política editorial y fuentes](https://theoldmastersprints.com/es/politica-editorial/)
-- [Tienda en Etsy](https://www.etsy.com/shop/TheOldMastersPrints)
+- [Print sizes A4, A3, A2 and A1: a visual guide to choosing the right size](https://theoldmastersprints.com/en/guides/print-sizes-a4-a3-a2-a1/)
+- [Print, poster or canvas: differences, prices and which to choose](https://theoldmastersprints.com/en/guides/print-poster-or-canvas/)
+- [Famous paintings for the living room: 10 masterpieces that work at home](https://theoldmastersprints.com/en/guides/famous-paintings-for-the-living-room/)
+- [Gifts for art lovers: ideas by budget and by person](https://theoldmastersprints.com/en/guides/gifts-for-art-lovers/)
+- [How to hang prints and paintings without drilling](https://theoldmastersprints.com/en/guides/how-to-hang-prints-without-nails/)
+- [Tamaños de lámina A4, A3, A2 y A1: guía visual para acertar en tu pared](https://theoldmastersprints.com/es/guias/tamanos-laminas-a4-a3-a2-a1/)
+- [Lámina, póster o lienzo: diferencias, precios y qué elegir](https://theoldmastersprints.com/es/guias/lamina-poster-o-lienzo/)
+- [Cuadros famosos para el salón: 10 obras maestras que funcionan en casa](https://theoldmastersprints.com/es/guias/cuadros-famosos-para-el-salon/)
+- [Regalos para amantes del arte: ideas por presupuesto y por persona](https://theoldmastersprints.com/es/guias/regalos-para-amantes-del-arte/)
+- [Cómo colgar láminas y cuadros sin taladrar](https://theoldmastersprints.com/es/guias/como-colgar-laminas-sin-taladrar/)
+
+## Shop
+
+- [Etsy shop](https://www.etsy.com/shop/TheOldMastersPrints)
+- [FAQ](https://theoldmastersprints.com/en/faq/)
+- [Editorial policy](https://theoldmastersprints.com/en/editorial-policy/)
