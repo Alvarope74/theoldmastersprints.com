@@ -1,0 +1,39 @@
+:root{--crema:#f6f1e6;--papel:#fffdf8;--tinta:#241f1b;--suave:#6e645a;--oro:#96703a;--linea:#e3d9c6}
+*{box-sizing:border-box}
+body{margin:0;background:var(--crema);color:var(--tinta);font:18px/1.65 Georgia,'Times New Roman',serif}
+a{color:var(--oro)}a:hover{color:var(--tinta)}
+header.sitio{border-bottom:1px solid var(--linea);background:var(--papel)}
+header.sitio .in,footer .in,main{max-width:1100px;margin:0 auto;padding:0 20px}
+header.sitio .in{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:64px;flex-wrap:wrap}
+.marca{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--tinta);font-weight:bold;letter-spacing:.04em}
+.marca img{width:36px;height:36px}
+nav a{margin-left:18px;text-decoration:none;color:var(--suave);font:15px system-ui,sans-serif}
+nav a:hover{color:var(--tinta)}
+main{padding-top:24px;padding-bottom:48px}
+.migas{font:14px system-ui,sans-serif;color:var(--suave);margin-bottom:8px}.migas a{color:var(--suave)}
+h1{font-size:2.1rem;line-height:1.2;margin:.2em 0 .5em}
+h2{font-size:1.45rem;margin:1.8em 0 .5em;padding-top:.4em;border-top:1px solid var(--linea)}
+.lead{font-size:1.15rem}
+.ficha{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:40px;align-items:start}
+.ficha article{max-width:720px}
+figure{margin:0 0 1.2em}figure img{max-width:100%;max-height:85vh;width:auto;height:auto;margin:0 auto;display:block;background:#ddd;box-shadow:0 6px 24px rgba(0,0,0,.15)}
+figcaption{font:13px system-ui,sans-serif;color:var(--suave);margin-top:8px}
+table{border-collapse:collapse;width:100%;font:15px/1.5 system-ui,sans-serif;background:var(--papel)}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--linea);vertical-align:top}
+th{width:38%;color:var(--suave);font-weight:600}
+aside .caja{position:sticky;top:16px;background:var(--papel);border:1px solid var(--linea);padding:20px;font:15px/1.5 system-ui,sans-serif}
+aside h3{font:bold 1.1rem Georgia,serif;margin:0 0 10px}
+.btn{display:block;text-align:center;background:var(--tinta);color:#fff;text-decoration:none;padding:12px;border-radius:4px;margin:10px 0;font:600 15px system-ui,sans-serif}
+.btn.sec{background:transparent;color:var(--tinta);border:1px solid var(--tinta)}
+.btn:hover{opacity:.85;color:#fff}.btn.sec:hover{color:var(--tinta)}
+.nota{font:13px/1.5 system-ui,sans-serif;color:var(--suave)}
+.faq dt{font-weight:bold;margin-top:1em}.faq dd{margin:.2em 0 0}
+.rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:22px;margin:16px 0 8px}
+.tarjeta{text-decoration:none;color:var(--tinta);background:var(--papel);border:1px solid var(--linea);display:flex;flex-direction:column}
+.tarjeta img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;display:block}
+.tarjeta span{padding:10px 12px;font-size:15px;line-height:1.35}.tarjeta small{display:block;color:var(--suave);font:13px system-ui,sans-serif;margin-top:3px}
+.hero{padding:28px 0 8px;max-width:760px}.hero p{font-size:1.15rem}
+.actualizado{font:13px system-ui,sans-serif;color:var(--suave);margin-top:2em}
+footer{border-top:1px solid var(--linea);background:var(--papel);font:14px/1.6 system-ui,sans-serif;color:var(--suave);padding:24px 0}
+footer a{color:var(--suave)}
+@media(max-width:860px){.ficha{grid-template-columns:1fr}aside .caja{position:static}h1{font-size:1.7rem}nav a{margin:0 14px 0 0}}
